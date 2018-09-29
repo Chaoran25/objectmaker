@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\objectmaker\objectmaker\main.cpp(77): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  objectmaker.vcxproj -> D:\objectmaker\Debug\objectmaker.exe
